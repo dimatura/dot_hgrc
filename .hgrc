@@ -1,0 +1,9 @@
+[ui]
+username = dimatura <dimatura@gmail.com>
+
+[diff]
+git = True
+
+[extensions]
+color = 
+hgk = 
